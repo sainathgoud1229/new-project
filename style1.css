@@ -1,0 +1,36 @@
+h1{
+color: #03fced;
+font-size: 30px;
+text-align: center;
+}
+h2{
+ color: black;
+ text-align: center;
+ font-size: 25px;
+}
+p{
+color: black;
+}
+body{
+background-color: #2b76b0;}
+.sai{
+background-color: #f0f0f0;
+height: 10vh;
+text-align: center;
+justify-content: center;
+}
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #5386ad;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #2b2db1;
+}
+
